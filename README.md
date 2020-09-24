@@ -3,7 +3,7 @@
 
 Dog vs Cat Using Small Data(Kaggle) with Keras ->  Kaggle Dogs-vs-Cats challenge
 
-MNIST -> https://pinkwink.kr/1121 에서 갖고옴
+MNIST -> https://pinkwink.kr/1121 에서 갖고옴, layer 별 출력 값 확인
 
 Fashion-MNIST -> https://github.com/KerasKorea/KEKOxTutorial 참고 vgg 추가
 
