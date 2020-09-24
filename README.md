@@ -13,4 +13,10 @@ Binary Image Classification using Keras 코드 -> vgg16 모델의 하이퍼 파�
 현재 진행중
 - KoBERT(https://github.com/SKTBrain/KoBERT#using-with-pytorch)를 이용한 자연어 처리
 - nsmc 데이터 전처리를 KoELECTRA(https://github.com/monologg/KoELECTRA)로 해보기
+
+
+- 참고자료
+https://nbviewer.jupyter.org/github/cyc1am3n/Deep-Learning-with-Python/blob/master/Chap03-getting_started_with_neural_networks/Chap03-Extra-classifying_korean_movie_review.ipynb
+https://tmaxai.github.io/post/BERT/
+https://wdprogrammer.tistory.com/33
 - 기타 등등..
