@@ -2,7 +2,7 @@
 
 Dog vs Cat Using Small Data(Kaggle) with Keras ->  Kaggle Dogs-vs-Cats challenge
 
-Dogs_vs_Cats_Binary_Image_Classification_using_Keras_코드 -> 실험) vgg16 모델의 하이퍼 파라미터 변경
+Binary_Image_Classification_using_Keras_코드 -> 실험) vgg16 모델의 하이퍼 파라미터 변경
 
 Fashion-MNIST -> https://github.com/KerasKorea/KEKOxTutorial 참고 vgg 추가
 
