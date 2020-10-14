@@ -1,6 +1,6 @@
 # Colab-Jupiter
 
-|파일명|설명|
+|:파일명:|:설명:|
 |:---:|:---|
 |Dog vs Cat Using Small Data(Kaggle) with Keras|Kaggle Dogs-vs-Cats challenge|
 |Binary_Image_Classification_using_Keras_코드|실험) vgg16 모델의 하이퍼 파라미터 변경|
